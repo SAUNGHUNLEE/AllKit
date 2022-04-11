@@ -118,7 +118,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: calc(1.325rem + 0.9vw);
+  font-size: 15px;
 }
 @media (min-width: 1200px) {
   h2, .h2 {
@@ -11286,6 +11286,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+
 .features-icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
@@ -11303,7 +11305,7 @@ textarea.form-control-lg {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../assets/img/bg-masthead.jpg") no-repeat center center;
+  background: url("../assets/img/title.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -11359,7 +11361,7 @@ header.masthead h1, header.masthead .h1 {
 .call-to-action {
   position: relative;
   background-color: #343a40;
-  background: url("../assets/img/bg-masthead.jpg") no-repeat center center;
+  background: url("../assets/img/title.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
@@ -11379,3 +11381,7 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+
+
+
